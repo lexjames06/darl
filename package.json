@@ -1,6 +1,9 @@
 {
-  "name": "darl",
-  "version": "1.0.0",
+  "name": "@lexjames06/darl",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/lexjames06"
+  },
+  "version": "0.0.1",
   "description": "deveng_aj react library",
   "scripts": {
     "rollup": "rollup -c"
